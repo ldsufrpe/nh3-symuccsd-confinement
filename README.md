@@ -3,7 +3,7 @@
 Numerical validation code for:
 
 > **Lie-algebraic incompleteness of symmetry-adapted VQE for non-Abelian molecular point groups**
-> Leon D. da Silva & Marcelo P. Santos (2025)
+> Leon D. da Silva & Marcelo P. Santos (2026)
 > [arXiv:2603.21009](https://doi.org/10.48550/arXiv.2603.21009)
 
 ## Overview
